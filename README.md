@@ -1,4 +1,4 @@
-# SMS Sending PHP Script and Interface
+# SMS Sending PHP Script and Accompanying Interface
 ## Client: KNBTS
 ### Description
 The SMS Sending script reads data from a file of predefined format, parses the file and invokes an online SMS sending service.
